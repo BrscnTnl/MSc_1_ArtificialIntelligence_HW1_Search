@@ -1,0 +1,9 @@
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\bin\Debug\HW1_1_20151014.exe.config
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.csprojResolveAssemblyReference.cache
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.Form1.resources
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.Properties.Resources.resources
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.csproj.GenerateResource.Cache
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\bin\Debug\HW1_1_20151014.exe
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\bin\Debug\HW1_1_20151014.pdb
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.exe
+D:\Yüksek Lisans\Artificial Intelligence\HW\1\HW1_1_20151014\HW1_1_20151014\obj\Debug\HW1_1_20151014.pdb
